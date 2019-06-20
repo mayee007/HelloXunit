@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj": {}
+    "C:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj": {
+    "C:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj",
+        "projectUniqueName": "C:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj",
         "projectName": "HelloXunit",
-        "projectPath": "c:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj",
+        "projectPath": "C:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\HelloXunit.csproj",
         "packagesPath": "C:\\Users\\mayee\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\obj\\",
+        "outputPath": "C:\\Users\\mayee\\VisualStudioWorkspace\\HelloXunit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
